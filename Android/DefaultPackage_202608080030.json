@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "202608080015",
-    "PackageNote": "8/8/2026 12:15:52 AM",
+    "PackageVersion": "202608080030",
+    "PackageNote": "8/8/2026 12:30:45 AM",
     "AssetList": [
         {
             "Address": "",
