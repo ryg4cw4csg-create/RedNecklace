@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "8/8/2026 1:18:07 AM",
-        "BuildSeconds": 5,
+        "BuildDate": "8/8/2026 1:19:31 AM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202608080118",
-        "BuildPackageNote": "8/8/2026 1:18:00 AM",
+        "BuildPackageVersion": "202608080119",
+        "BuildPackageNote": "8/8/2026 1:19:25 AM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 286,
         "MainAssetTotalCount": 240,
         "AllBundleTotalCount": 236,
-        "AllBundleTotalSize": 73376242,
+        "AllBundleTotalSize": 73378012,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -2898,7 +2898,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "MainBundleSize": 109298,
+            "MainBundleSize": 111068,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -8049,10 +8049,10 @@
         },
         {
             "BundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "FileName": "abb0fb046a7e192c2a7ca37b136b3ff0.bundle",
-            "FileHash": "abb0fb046a7e192c2a7ca37b136b3ff0",
-            "FileCRC": 2712608299,
-            "FileSize": 109298,
+            "FileName": "af0256237bae27d2954d68fe89fa38d2.bundle",
+            "FileHash": "af0256237bae27d2954d68fe89fa38d2",
+            "FileCRC": 2714628051,
+            "FileSize": 111068,
             "Encrypted": false,
             "Tags": [
                 "ArticleGroup",
