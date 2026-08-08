@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "202608081538",
-    "PackageNote": "8/8/2026 3:38:17 PM",
+    "PackageVersion": "202608081543",
+    "PackageNote": "8/8/2026 3:43:49 PM",
     "AssetList": [
         {
             "Address": "",
@@ -5822,10 +5822,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "UnityCRC": 2089936458,
-            "FileHash": "85681100d499dae9d33a728a0c067824",
-            "FileCRC": 2515934495,
-            "FileSize": 6085,
+            "UnityCRC": 333740192,
+            "FileHash": "3b4b3604e529254f37061fc66b7cee15",
+            "FileCRC": 3655631736,
+            "FileSize": 6089,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
