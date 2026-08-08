@@ -11,6 +11,7 @@
     <type fullname="HotUpdate.Ui.UiCustomController.PackArticleListPanel.PackArticleSelectionBtn" preserve="all" />
     <type fullname="InvitationCodePanelWrapper.InvitationCodePanelWrapper" preserve="all" />
     <type fullname="NewsPanelWrapper.NewsPanelWrapper" preserve="all" />
+    <type fullname="NoticePanelWrapper.NoticePanelWrapper" preserve="all" />
     <type fullname="PackArticleListPanelWrapper.PackArticleListPanelWrapper" preserve="all" />
     <type fullname="PackListPanelWrapper.PackListPanelWrapper" preserve="all" />
     <type fullname="PackVerificationPanelWrapper.PackVerificationPanelWrapper" preserve="all" />
@@ -24,6 +25,7 @@
     <type fullname="UiController.GeneralVerificationPanel" preserve="all" />
     <type fullname="UiController.InvitationCodePanel" preserve="all" />
     <type fullname="UiController.NewsPanel" preserve="all" />
+    <type fullname="UiController.NoticePanel" preserve="all" />
     <type fullname="UiController.PackArticleListPanel" preserve="all" />
     <type fullname="UiController.PackListPanel" preserve="all" />
     <type fullname="UiController.PackSelectionBtn" preserve="all" />

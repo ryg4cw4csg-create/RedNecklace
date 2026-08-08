@@ -1,0 +1,5852 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": false,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "202608081438",
+    "PackageNote": "8/8/2026 2:38:55 PM",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/小黑/原来也是奴番外1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/小黑/暴徒1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/小黑/暴徒2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/小黑/暴徒3.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/小黑/球场暴君.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/小黑/默途健身俱乐部.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/年更yu/超级战士番外.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/年更yu/那些堕落的男神们之冰山皮下的娇气校霸.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/年更yu/那些堕落的男神们之外表阳光内里骚浪的校草.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/年更yu/那些堕落的男神们之小山村里被催眠的男神.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面02.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面03.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面04.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面05.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面06.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面07.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 16,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面08.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面前传-江野的堕落之路.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面前传-江野的堕落之路2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 19,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/夫夫家对门的健身工作室.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/青年老板的网红男友正在崩坏.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/青年老板的网红男友正在崩坏02.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原味APP1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 23,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原味APP2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 24,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原味APP3.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原来也是奴1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原来也是奴2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 27,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原来也是奴3.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 28,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原来也是奴4.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原来也是奴5.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/原来也是奴6.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 31,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/王屌军犬.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 32,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/纯1故事.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 33,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/重磅玩家1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 34,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/野痞兵哥被调教成尿壶精犬1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/雄狮1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 36,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/雄狮2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/雄臭健身房1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 38,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/雄臭健身房2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 39,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 40,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴2.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 41,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴3.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 42,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴4.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 43,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴5.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 44,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴6.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 45,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴7.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 46,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴8.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 47,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/芒果战神/高大纯主男友沦为奴下奴9.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 48,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/109号病人（洗脑、病毒）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 49,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/今天开始做魔王.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 50,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/今日成王之催眠.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 51,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/佛洛伊德照相馆.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 52,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/你的催眠我的奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 53,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/催眠实验日志 作者：催眠使者.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 54,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/催眠帅老板.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 55,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/图腾.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 56,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/奇功异法.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 57,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/学生会会长和不良少年的秘密工作.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 58,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/往上看(修).txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 59,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/暗蚀(催眠).txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 60,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/梦想成真2.0长篇.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 61,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/洗脑.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 62,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/继承（催眠洗脑、兄弟、父子）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 63,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/绯色幻想I催眠之瞳.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 64,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/蝙蝠侠催眠调教.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 65,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/许愿魔石.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 66,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/诡异催眠录.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 67,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/催眠文/魔药师.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 68,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/《堕落警察之出入警坛》.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 69,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/《征服》.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 70,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/《跪地为奴1》.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 71,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/一家直男军官沦陷为性奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 72,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/从直男到骚0——一个小警察的沦陷.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 73,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/健硕警校生.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 74,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/军校生之群狼环伺.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 75,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/双胞胎退伍军人的奴隶沦陷【乱伦主奴绿帽侧奴白袜】.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 76,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/团长的沦陷.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 77,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/帅警奴隶小军.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 78,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/征服猛男国防生学长.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 79,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/我和两只军犬的幸福生活.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 80,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/我在荒郊野岭捡了一条军犬.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 81,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/特种肌肉军主的恶堕之路.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 82,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/色情俱乐部之纹身军痞肌肉奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 83,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/被驯服的军人男友.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 84,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/警熊1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 85,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/警肉生活.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 86,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/那山那月那哨所.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 87,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/制服文/阴茎爆裂脚.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 88,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/《一虐到底》完结.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 89,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/《跪地为奴2》+番外作者：心术不正（混合NTR）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 90,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/194体育生恶堕实录.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 91,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/上锁的猛主.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 92,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/圣哥被X记.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 93,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/年更.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 94,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/暗黑雄汁.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 95,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/来自地狱的快递.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 96,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/横推天下.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 97,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/欲望之下.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 98,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/欲望之间.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 99,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/欲望驱使.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 100,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/纯1猛主兄弟会.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 101,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/纯主背后的主.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 102,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/纯主被开发.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 103,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/英雄败北恶堕.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 104,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/虎哥雌堕.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 105,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/训主为奴(H)-.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 106,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/超帅篮球痞子.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 107,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/反差调教文/零谲壹诡.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 108,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/催眠父子.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 109,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/圣音.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 110,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/城堡.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 111,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/帅气白壮的男神游泳王子沦为黑人留学生的骚肌母猪.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 112,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/祁峰与箫雷的绿帽臣服.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 113,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/种马乐园 .txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 114,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/绝色劫情.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 115,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/超级淫荡外挂系统.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 116,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/黑人岛屿之耀光的失败.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 117,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/国外文/黑爹麦克的黄皮绿奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 118,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/《下一条疯狗》大长篇沉沦np调教_by南方有我_完结 (1).txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 119,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/《恶堕英雄傲龙》.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 120,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/《我与猛男雄主父亲的生活》伪父子主奴by长卿.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 121,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/《战神男友被猥琐流浪汉征服》绿 反差 作者：健树.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 122,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/《疯狂》 （军犬，白袜，改造，SM，皮革）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 123,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/《黑肌男友恋上我痞子继父的驴屌》作者：臀臀.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 124,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/军犬.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 125,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/冠长市的爱与羞.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 126,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/卧底月王之永堕魔岛.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 127,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/卧底月王之浮云翳辉.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 128,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/坠阳落溷录.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 129,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/奴瘾（完结）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 130,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/爷们男友变精盆.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 131,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/牧魂经.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 132,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/狼妖寺.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 133,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/狼王.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 134,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/神魔催眠项链.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 135,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/肌肉军主纯一被陷害玩成恶堕母狗--紫色灰.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 136,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/雌堕母狗黑狮父王的奴下奴雄孕.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 137,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/杂文/驯服白袜校草丁子阳.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 138,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/[更59蛋全]《不灭的他与产卵猛犬们》作家：珍君（np）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 139,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/《卧底月王之永堕魔岛》作者：Mr. Right .txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 140,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/《被驯化的战神》作家：珍君（np）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 141,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/《超级英雄的堕欲之途（np 奴化，反调教，巨屌精牛，人外）》作者：万山【完结】.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 142,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/传奇为奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 143,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/反转兽人.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 144,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/宜春香质.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 145,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/少年勇者被哥布林调教成经验池.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 146,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/征服肌肉纯一 .txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 147,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/恶魔领主游戏.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 148,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/沦为玩物的变身英雄.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 149,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/烈焰雄堕.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 150,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/神奇少年.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 151,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/调教恶魔.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 152,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/闪豹同人.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 153,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/驯龙大师.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 154,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/魔法皇帝.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 155,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/魔王.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 156,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/魔王的卖身男欢.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 157,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/玄幻文/黑魔法师In男校.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 158,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/【绿帽小哥哥】山东痞帅运动舍友操了我女朋友三年.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 159,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/公用男友.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 160,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/奴隶.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 161,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/完美男友的秘密.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 162,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/帅哥收藏夹  控制.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 163,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/我和bf一起被泳池帅哥爆操凌辱.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 164,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/极品男友被肌肉民工的巨根征服.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 165,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/热血球児男友在外国交换生臭脚下翻着白眼喷射! (国内篇完).txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 166,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/痞男跨下.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 167,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/矮个钢炮痞子狂草南航空少BF.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 168,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/空少男友.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 169,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/老公被小混混玩成贱奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 170,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/肌肉体育生男友被丑逼干烂.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 171,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/肌肉男友逐步沦陷的记录.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 172,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/肌肉绿帽男的肉便器之路.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 173,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/被痞子调教成骚0.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 174,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/赤裸BOY.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 175,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/驯の爱.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 176,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/鲜肉房主邱宇豪和糙男租客潘益超.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 177,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/绿帽反差文/黑车痞子司机的脚下军犬1-4（偷情、痞子攻强受、SM、臭脚）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 178,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/[np 完结]《犬皇（SM）》作者：闻白小尾巴【补】.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 179,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/[完结]《大学里的筋肉雄兽们》作家：狼崽（np）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 180,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/《球奴》体育生粗口玩系列.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 181,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/《臣服》体育肌肉狗.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 182,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/人工智能（洗脑）.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 183,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/体育帅哥林峰.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 184,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/体育生沦陷.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 185,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/大学生黄子松.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 186,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/惡魔房東與體育生【全本】.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 187,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/我的足球队长.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 188,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/校队阿翔的青春记事.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 189,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/淫荡医生的体检陷阱(调教体院生).txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 190,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/燕飞春生.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 191,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/男体院之校园SM俱乐部 .txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 192,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/男汁玩具.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 193,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/痞子老大的狗奴.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 194,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/街舞王子.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 195,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/足球健将阿威的沦陷.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 196,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/阳刚体育男神变成一条骚狗.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 197,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市体育生文/驯服猛男运动宿友.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 198,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/《猛虎教练》.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 199,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/《精英熟男被下属玩成骚贱奴》.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 200,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/东北汉子与重庆靓仔的故事.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 201,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/大屌俊的暴露生活.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 202,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/契约.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 203,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/巨屌直男李健豪.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 204,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/总裁皮囊.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 205,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/我的H路历程.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 206,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/欲望之间.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 207,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/欲海巨棒.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 208,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/母狗.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 209,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/民工做主人的生活.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 210,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/淫靡大厦重置版.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 211,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/男友被肌肉痞子虐操：精液派对.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 212,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/荒村恶童完结版.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 213,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/被玩弄的肌肉男.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 214,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/迷路.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 215,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/铮铮晴天.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 216,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/雄屌淫穴教练的日记本-1.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 217,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/非原创小说/都市肉文/顾明朗-省长公子沦陷记-v文.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 218,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/黑武士/失控01.txt",
+            "AssetGUID": "",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "BundleID": 219,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/CommonGroup/Font/MiSans-Normal SDF.asset",
+            "AssetGUID": "",
+            "AssetTags": [
+                "CommonGroup",
+                "BuildIn"
+            ],
+            "BundleID": 220,
+            "DependBundleIDs": [
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/CommonGroup/Font/MiSans-Normal.ttf",
+            "AssetGUID": "",
+            "AssetTags": [
+                "CommonGroup",
+                "BuildIn"
+            ],
+            "BundleID": 220,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/ArticleListPanel/ArticleListPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 221,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/ArticlePagePanel/ArticlePagePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 222,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/ArticleScrollViewPanel/ArticleScrollViewPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 223,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/BuyPanel/BuyPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 224,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/FullTradePanel/FullTradePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 225,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/GeneralVerificationPanel/GeneralVerificationPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 226,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/InvitationCodePanel/InvitationCodePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 227,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/NewsPanel/NewsPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 228,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/NoticePanel/NoticePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 229,
+            "DependBundleIDs": [
+                220,
+                228,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/PackArticleListPanel/PackArticleListPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 230,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/PackListPanel/PackListPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 231,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/PackVerificationPanel/PackVerificationPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 232,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/SettingsPanel/SettingsPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 233,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/UiGroup/Panel/VerificationPanel/VerificationPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "BundleID": 234,
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ExcelJson/C_Table/table_tbarticle.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "BundleID": 235,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ExcelJson/C_Table/table_tbpack.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "BundleID": 235,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ExcelJson/C_Table/table_tbpackarticle.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "BundleID": 235,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ExcelJson/C_Table/table_tbpacknotice.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "BundleID": 235,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ExcelJson/C_Table/table_tbpacktag.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "BundleID": 235,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ExcelJson/C_Table/table_tbpackvoice.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "BundleID": 235,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_artassets_articlegroup_小黑_原来也是奴番外1.bundle",
+            "UnityCRC": 3406103763,
+            "FileHash": "24f9f83131eb65c23bfa99c9cd8c9da2",
+            "FileCRC": 2118277471,
+            "FileSize": 54705,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_小黑_暴徒1.bundle",
+            "UnityCRC": 768674002,
+            "FileHash": "e4f98eff40feaecac50e45f54e7ed249",
+            "FileCRC": 1499522966,
+            "FileSize": 182604,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_小黑_暴徒2.bundle",
+            "UnityCRC": 3855743868,
+            "FileHash": "2d88061672c0a0e26081687fb1d63258",
+            "FileCRC": 689389770,
+            "FileSize": 228508,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_小黑_暴徒3.bundle",
+            "UnityCRC": 2101600181,
+            "FileHash": "dc07cdc57a1deeba31852220e1c4eff0",
+            "FileCRC": 279644673,
+            "FileSize": 216637,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_小黑_球场暴君.bundle",
+            "UnityCRC": 2068429183,
+            "FileHash": "9bf7e922df41029d3fcc8605d521b982",
+            "FileCRC": 4152056506,
+            "FileSize": 124312,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_小黑_默途健身俱乐部.bundle",
+            "UnityCRC": 3958982555,
+            "FileHash": "c109cff5ab667bb2464e058f5eb0a104",
+            "FileCRC": 517265003,
+            "FileSize": 166091,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_年更yu_超级战士番外.bundle",
+            "UnityCRC": 2553422917,
+            "FileHash": "097da26a97ef51fbe79168f3f7cc11f5",
+            "FileCRC": 2135793878,
+            "FileSize": 136360,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_年更yu_那些堕落的男神们之冰山皮下的娇气校霸.bundle",
+            "UnityCRC": 1255954395,
+            "FileHash": "f47002d396642ee77b853429f43af5ef",
+            "FileCRC": 471250973,
+            "FileSize": 131599,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_年更yu_那些堕落的男神们之外表阳光内里骚浪的校草.bundle",
+            "UnityCRC": 435900002,
+            "FileHash": "1e959a229e38bb42f9303eb512663ec5",
+            "FileCRC": 2698083869,
+            "FileSize": 150559,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_年更yu_那些堕落的男神们之小山村里被催眠的男神.bundle",
+            "UnityCRC": 1628092007,
+            "FileHash": "cbd3fd0203c78851ac328a50d5056fdd",
+            "FileCRC": 2269456643,
+            "FileSize": 136924,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面.bundle",
+            "UnityCRC": 2326189110,
+            "FileHash": "3c7dd43bbf194746f0fe9794383d9c47",
+            "FileCRC": 1267104396,
+            "FileSize": 135073,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面02.bundle",
+            "UnityCRC": 2507009850,
+            "FileHash": "ff809e9b81e8bee6f211b83db4742922",
+            "FileCRC": 1817938071,
+            "FileSize": 157867,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面03.bundle",
+            "UnityCRC": 3776618052,
+            "FileHash": "f898f8a313941057a43fba0398015c06",
+            "FileCRC": 2650980754,
+            "FileSize": 92909,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面04.bundle",
+            "UnityCRC": 2740686973,
+            "FileHash": "ed65b02948bda30fe4052a42d9fe52fe",
+            "FileCRC": 822415737,
+            "FileSize": 138893,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面05.bundle",
+            "UnityCRC": 856096022,
+            "FileHash": "5da8689e252f4035ab850fa73d858310",
+            "FileCRC": 1082162976,
+            "FileSize": 137575,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面06.bundle",
+            "UnityCRC": 2102601325,
+            "FileHash": "d4a757dfd01e760a3c1e88e5d52261d2",
+            "FileCRC": 738725166,
+            "FileSize": 176672,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面07.bundle",
+            "UnityCRC": 262732930,
+            "FileHash": "39dcbf078e9bb66dba6e631f9f5a3a2e",
+            "FileCRC": 2121333673,
+            "FileSize": 110544,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面08.bundle",
+            "UnityCRC": 2238840282,
+            "FileHash": "71302afda9b2680d83545330bdc4aab9",
+            "FileCRC": 2629046788,
+            "FileSize": 104575,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面前传-江野的堕落之路.bundle",
+            "UnityCRC": 3911880773,
+            "FileHash": "7609c6d01257723041b36a8778088881",
+            "FileCRC": 1897928223,
+            "FileSize": 92884,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面前传-江野的堕落之路2.bundle",
+            "UnityCRC": 2035680096,
+            "FileHash": "253f8941737799927d50d9903ffc5cc3",
+            "FileCRC": 922203839,
+            "FileSize": 87268,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_夫夫家对门的健身工作室.bundle",
+            "UnityCRC": 2109433469,
+            "FileHash": "fbf4e3a53bda46f791bbb91a6cab84ed",
+            "FileCRC": 3093894069,
+            "FileSize": 105363,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_青年老板的网红男友正在崩坏.bundle",
+            "UnityCRC": 3491280395,
+            "FileHash": "54a49234187821fb90678d705c0c10d8",
+            "FileCRC": 750730408,
+            "FileSize": 159551,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_青年老板的网红男友正在崩坏02.bundle",
+            "UnityCRC": 855549647,
+            "FileHash": "c852e8e64715faebe6409a9b0775ca07",
+            "FileCRC": 637168849,
+            "FileSize": 117796,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原味app1.bundle",
+            "UnityCRC": 1552804057,
+            "FileHash": "ebb98b9181f099da9b875ce5c36b0bb6",
+            "FileCRC": 752142007,
+            "FileSize": 102745,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原味app2.bundle",
+            "UnityCRC": 718326929,
+            "FileHash": "fef4969c3bea4ad44dc009959969f2cd",
+            "FileCRC": 1383087736,
+            "FileSize": 110017,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原味app3.bundle",
+            "UnityCRC": 3929203003,
+            "FileHash": "e5218c0b2159c9c0878854b0aef13a18",
+            "FileCRC": 1430332267,
+            "FileSize": 108897,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原来也是奴1.bundle",
+            "UnityCRC": 710789562,
+            "FileHash": "1c0ab01daf8afee66fd1b2e528f93b41",
+            "FileCRC": 1184630509,
+            "FileSize": 283950,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原来也是奴2.bundle",
+            "UnityCRC": 2003228165,
+            "FileHash": "064d723359b9bef55b7ee1350c65c5f3",
+            "FileCRC": 2935719055,
+            "FileSize": 391211,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原来也是奴3.bundle",
+            "UnityCRC": 2462013253,
+            "FileHash": "1992099f2ed43e91addb3eb89e5be875",
+            "FileCRC": 1833011048,
+            "FileSize": 621815,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原来也是奴4.bundle",
+            "UnityCRC": 1234995187,
+            "FileHash": "4636ee4443b40a243307384fc765c1dc",
+            "FileCRC": 3730935463,
+            "FileSize": 400297,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原来也是奴5.bundle",
+            "UnityCRC": 3390896770,
+            "FileHash": "94cb2258a464e9e845a4b1dcf74dd701",
+            "FileCRC": 3801404269,
+            "FileSize": 259273,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_原来也是奴6.bundle",
+            "UnityCRC": 534198571,
+            "FileHash": "22f7e4e7b42a75404d97fa2827647126",
+            "FileCRC": 3096763973,
+            "FileSize": 209382,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_王屌军犬.bundle",
+            "UnityCRC": 3658213502,
+            "FileHash": "bad2701d2b8493236b775af24a5771dd",
+            "FileCRC": 4015592301,
+            "FileSize": 108328,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_纯1故事.bundle",
+            "UnityCRC": 3813762940,
+            "FileHash": "07658a9489dde0c187603f6ea78eb728",
+            "FileCRC": 2327696005,
+            "FileSize": 109383,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_重磅玩家1.bundle",
+            "UnityCRC": 3157020574,
+            "FileHash": "eb76e68b6df5a9677c6440fdf295fa73",
+            "FileCRC": 3806336928,
+            "FileSize": 105405,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_野痞兵哥被调教成尿壶精犬1.bundle",
+            "UnityCRC": 3673141094,
+            "FileHash": "7b67e975910c28712979d5f2bcc76091",
+            "FileCRC": 2105773759,
+            "FileSize": 260252,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_雄狮1.bundle",
+            "UnityCRC": 3019485607,
+            "FileHash": "103b120bf903102a75e7cbacefa3c44f",
+            "FileCRC": 2501584480,
+            "FileSize": 108776,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_雄狮2.bundle",
+            "UnityCRC": 186072405,
+            "FileHash": "69c758d10e86980ae824ce69e862d00c",
+            "FileCRC": 2007398859,
+            "FileSize": 106791,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_雄臭健身房1.bundle",
+            "UnityCRC": 3555233075,
+            "FileHash": "8c95dc1fd03b2bd29d2dc3ad18941322",
+            "FileCRC": 1266902934,
+            "FileSize": 98454,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_雄臭健身房2.bundle",
+            "UnityCRC": 2771379951,
+            "FileHash": "edc38fa867262176481e5526a70f9a28",
+            "FileCRC": 2478903664,
+            "FileSize": 104975,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴1.bundle",
+            "UnityCRC": 2261708186,
+            "FileHash": "1d7990fb7a31d2fcf15e9d2a3f5b0a06",
+            "FileCRC": 1125054546,
+            "FileSize": 105233,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴2.bundle",
+            "UnityCRC": 477966526,
+            "FileHash": "b5972689a56fd8b02ddd9fc7f3eae239",
+            "FileCRC": 2773174760,
+            "FileSize": 108043,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴3.bundle",
+            "UnityCRC": 33945300,
+            "FileHash": "b27570cb848b13be7972c45cbb6e7322",
+            "FileCRC": 2713334706,
+            "FileSize": 110139,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴4.bundle",
+            "UnityCRC": 1210553429,
+            "FileHash": "c106bba6ae5232041296aa7d06b55614",
+            "FileCRC": 3767122161,
+            "FileSize": 111255,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴5.bundle",
+            "UnityCRC": 3836668630,
+            "FileHash": "22ddf17fd6ae4e6336cccfbaab36a3d6",
+            "FileCRC": 118461012,
+            "FileSize": 111834,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴6.bundle",
+            "UnityCRC": 1098471996,
+            "FileHash": "3bd8087921ded515edddba78195e5afc",
+            "FileCRC": 962733448,
+            "FileSize": 108121,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴7.bundle",
+            "UnityCRC": 1006073699,
+            "FileHash": "a4e9ccc7cdeede3d22372d94a28ec48c",
+            "FileCRC": 1895375198,
+            "FileSize": 107737,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴8.bundle",
+            "UnityCRC": 920342875,
+            "FileHash": "2b2dcaf4890d3d9b9dc6a799070405d2",
+            "FileCRC": 3535382930,
+            "FileSize": 107896,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_芒果战神_高大纯主男友沦为奴下奴9.bundle",
+            "UnityCRC": 2912330635,
+            "FileHash": "23334d464e9f41e14c2e4bf8a2aa8919",
+            "FileCRC": 1582807007,
+            "FileSize": 106332,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_109号病人（洗脑、病毒）.bundle",
+            "UnityCRC": 1274415115,
+            "FileHash": "95ca2a4b83ba4fb0e85b1adc530b97a2",
+            "FileCRC": 1037383064,
+            "FileSize": 8411,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_今天开始做魔王.bundle",
+            "UnityCRC": 1424362687,
+            "FileHash": "317a8e4d0dd9130084d73db0a7fb136e",
+            "FileCRC": 1838209872,
+            "FileSize": 166446,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_今日成王之催眠.bundle",
+            "UnityCRC": 2459085924,
+            "FileHash": "016eb60d854df4f118868da2d4047042",
+            "FileCRC": 1298502899,
+            "FileSize": 31903,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_佛洛伊德照相馆.bundle",
+            "UnityCRC": 156864365,
+            "FileHash": "b04dd2605c068684f2e97f31142a0000",
+            "FileCRC": 2501202737,
+            "FileSize": 100781,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_你的催眠我的奴.bundle",
+            "UnityCRC": 2983678690,
+            "FileHash": "cb61b69043408ca75f8a75f1dcad2053",
+            "FileCRC": 3325725872,
+            "FileSize": 323317,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_催眠实验日志_作者：催眠使者.bundle",
+            "UnityCRC": 1847737901,
+            "FileHash": "ccc41de2ac4421d12fd9d81332a56578",
+            "FileCRC": 4150913383,
+            "FileSize": 132548,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_催眠帅老板.bundle",
+            "UnityCRC": 1835674288,
+            "FileHash": "43ef113c1aa767555ca8f648e11258b0",
+            "FileCRC": 2447963979,
+            "FileSize": 127830,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_图腾.bundle",
+            "UnityCRC": 920509640,
+            "FileHash": "ffc65cb83fd1d76dfc00ff95f3d6b4d2",
+            "FileCRC": 1375272413,
+            "FileSize": 109326,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_奇功异法.bundle",
+            "UnityCRC": 3503975797,
+            "FileHash": "ae853d936809ee71cff19a1bb8a47ab1",
+            "FileCRC": 2420213952,
+            "FileSize": 60493,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_学生会会长和不良少年的秘密工作.bundle",
+            "UnityCRC": 708180424,
+            "FileHash": "5657f2910f19d40e50749610b015a406",
+            "FileCRC": 1683043034,
+            "FileSize": 31925,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_往上看(修).bundle",
+            "UnityCRC": 3226110726,
+            "FileHash": "8630a48873083f1929f5134e5a5e611f",
+            "FileCRC": 1866760489,
+            "FileSize": 8117,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_暗蚀(催眠).bundle",
+            "UnityCRC": 2302531293,
+            "FileHash": "e5131ecdb525429f66a6d993b97f1bcd",
+            "FileCRC": 2692974655,
+            "FileSize": 145345,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_梦想成真2_0长篇.bundle",
+            "UnityCRC": 2190319033,
+            "FileHash": "c4303f8b6594b4886fe60d60bde12190",
+            "FileCRC": 270094174,
+            "FileSize": 590486,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_洗脑.bundle",
+            "UnityCRC": 2178567418,
+            "FileHash": "6c6de6107a8f94027a339b3b6ee8ce2b",
+            "FileCRC": 3795788448,
+            "FileSize": 314056,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_继承（催眠洗脑、兄弟、父子）.bundle",
+            "UnityCRC": 3472692032,
+            "FileHash": "fb74f99bae0489baf32eac8d38d99b88",
+            "FileCRC": 3336166808,
+            "FileSize": 28019,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_绯色幻想i催眠之瞳.bundle",
+            "UnityCRC": 2791769736,
+            "FileHash": "d8b8ba55c53fcd6281663deb7169a180",
+            "FileCRC": 490496976,
+            "FileSize": 189590,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_蝙蝠侠催眠调教.bundle",
+            "UnityCRC": 2108804818,
+            "FileHash": "7e5f199c19f5ffec04786bc92496a981",
+            "FileCRC": 115205855,
+            "FileSize": 104956,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_许愿魔石.bundle",
+            "UnityCRC": 477065258,
+            "FileHash": "4d8cf5a35191510e57f4e8da4a34ce1b",
+            "FileCRC": 3205690409,
+            "FileSize": 18611,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_诡异催眠录.bundle",
+            "UnityCRC": 1928992714,
+            "FileHash": "b336bf1d6512ef08b6cf227930bbac6e",
+            "FileCRC": 2913310984,
+            "FileSize": 24200,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_催眠文_魔药师.bundle",
+            "UnityCRC": 1308775136,
+            "FileHash": "521c5b8c7e6194327dd839f5992d3aee",
+            "FileCRC": 1262588771,
+            "FileSize": 172868,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_《堕落警察之出入警坛》.bundle",
+            "UnityCRC": 3817774786,
+            "FileHash": "9567c1196b563ee86f00c71e7386c976",
+            "FileCRC": 1653448320,
+            "FileSize": 133316,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_《征服》.bundle",
+            "UnityCRC": 4101144371,
+            "FileHash": "82080d497a04758e5edaf2606c3ad256",
+            "FileCRC": 687769100,
+            "FileSize": 29703,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_《跪地为奴1》.bundle",
+            "UnityCRC": 2724279479,
+            "FileHash": "a97d2a6b363a356097a5c76552c11edf",
+            "FileCRC": 971710495,
+            "FileSize": 570457,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_一家直男军官沦陷为性奴.bundle",
+            "UnityCRC": 3707033344,
+            "FileHash": "038f94c6de28f9d337a40135e4c0523f",
+            "FileCRC": 3284748401,
+            "FileSize": 379342,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_从直男到骚0——一个小警察的沦陷.bundle",
+            "UnityCRC": 3039125782,
+            "FileHash": "9e024026bc92e21abf949b8924c9ed3a",
+            "FileCRC": 2716797579,
+            "FileSize": 136573,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_健硕警校生.bundle",
+            "UnityCRC": 2868320894,
+            "FileHash": "311740c24df93ee843fa8abf1e797cd4",
+            "FileCRC": 2292043915,
+            "FileSize": 461932,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_军校生之群狼环伺.bundle",
+            "UnityCRC": 162292407,
+            "FileHash": "3be7be4eb367c119bfb924e5d1dc3c49",
+            "FileCRC": 3876104298,
+            "FileSize": 403022,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_双胞胎退伍军人的奴隶沦陷【乱伦主奴绿帽侧奴白袜】.bundle",
+            "UnityCRC": 3788952110,
+            "FileHash": "f415526acd6a65fda62ef8b631422aa6",
+            "FileCRC": 4086245301,
+            "FileSize": 124871,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_团长的沦陷.bundle",
+            "UnityCRC": 625678438,
+            "FileHash": "17808e6c9e28fe2dfb9345f01c000463",
+            "FileCRC": 3584205383,
+            "FileSize": 212468,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_帅警奴隶小军.bundle",
+            "UnityCRC": 3524873834,
+            "FileHash": "3834454354d8f9a7509c8716d1f67d59",
+            "FileCRC": 1136672236,
+            "FileSize": 109139,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_征服猛男国防生学长.bundle",
+            "UnityCRC": 1250346761,
+            "FileHash": "c4da13c9952634ccc6d037a33d382377",
+            "FileCRC": 762987047,
+            "FileSize": 119625,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_我和两只军犬的幸福生活.bundle",
+            "UnityCRC": 1956804555,
+            "FileHash": "c6e120daf8f82abf9807d59e31fd2bf8",
+            "FileCRC": 110480269,
+            "FileSize": 175411,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_我在荒郊野岭捡了一条军犬.bundle",
+            "UnityCRC": 2165522357,
+            "FileHash": "b9ad4977432e5c51221ced67c5bc4fca",
+            "FileCRC": 1426193222,
+            "FileSize": 240080,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_特种肌肉军主的恶堕之路.bundle",
+            "UnityCRC": 2021644487,
+            "FileHash": "b91cab417b7ffc1f6383144301cf1ac2",
+            "FileCRC": 3079776636,
+            "FileSize": 437696,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_色情俱乐部之纹身军痞肌肉奴.bundle",
+            "UnityCRC": 2548761810,
+            "FileHash": "38c296095f0ea31c9a1e4614028eb22b",
+            "FileCRC": 797072472,
+            "FileSize": 25553,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_被驯服的军人男友.bundle",
+            "UnityCRC": 1634417687,
+            "FileHash": "5a2a236497f28004495802379eddf4d6",
+            "FileCRC": 2527260804,
+            "FileSize": 305104,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_警熊1.bundle",
+            "UnityCRC": 946532798,
+            "FileHash": "f7baa52b15743113629ad6f4c1eb931d",
+            "FileCRC": 1955643938,
+            "FileSize": 201145,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_警肉生活.bundle",
+            "UnityCRC": 259198729,
+            "FileHash": "e181b0d4e998432cd3ed4b6b439dd722",
+            "FileCRC": 1004552801,
+            "FileSize": 825663,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_那山那月那哨所.bundle",
+            "UnityCRC": 2816281674,
+            "FileHash": "44f09940f2d4832793994577208b3e9f",
+            "FileCRC": 2798372074,
+            "FileSize": 693953,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_制服文_阴茎爆裂脚.bundle",
+            "UnityCRC": 4069538575,
+            "FileHash": "65455f1cc390e055f792dc936e4d23e8",
+            "FileCRC": 719210551,
+            "FileSize": 24117,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_《一虐到底》完结.bundle",
+            "UnityCRC": 919842642,
+            "FileHash": "3ab4ee542fef39b1923ef7c2fd036b33",
+            "FileCRC": 3142888350,
+            "FileSize": 201730,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_《跪地为奴2》+番外作者：心术不正（混合ntr）.bundle",
+            "UnityCRC": 3242781734,
+            "FileHash": "9caf1aa16b58d5d2f208fd0579f1ab97",
+            "FileCRC": 938121765,
+            "FileSize": 2852327,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_194体育生恶堕实录.bundle",
+            "UnityCRC": 4216488271,
+            "FileHash": "8d25aaaa02682fb1c8a9132c53579a01",
+            "FileCRC": 2858575134,
+            "FileSize": 179606,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_上锁的猛主.bundle",
+            "UnityCRC": 1709911727,
+            "FileHash": "ae555d62bbd1f3f02e90f53206c293ee",
+            "FileCRC": 875088889,
+            "FileSize": 111957,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_圣哥被x记.bundle",
+            "UnityCRC": 453071033,
+            "FileHash": "241e8c87d612d03f0b755c2e660068c1",
+            "FileCRC": 4283013198,
+            "FileSize": 285798,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_年更.bundle",
+            "UnityCRC": 3999357283,
+            "FileHash": "daae98f31d7f70003b5834f7eb5d45cb",
+            "FileCRC": 2771067354,
+            "FileSize": 379110,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_暗黑雄汁.bundle",
+            "UnityCRC": 1398179227,
+            "FileHash": "fc16ec74c870a49158dd7a40251b9ceb",
+            "FileCRC": 396071171,
+            "FileSize": 393401,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_来自地狱的快递.bundle",
+            "UnityCRC": 45351579,
+            "FileHash": "5b8d97d6eaf3b6b5c99b51610492cf8b",
+            "FileCRC": 4046652728,
+            "FileSize": 153075,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_横推天下.bundle",
+            "UnityCRC": 3848062120,
+            "FileHash": "06950159cf7466076f94c8e1ab24da2d",
+            "FileCRC": 77958973,
+            "FileSize": 236105,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_欲望之下.bundle",
+            "UnityCRC": 3265251495,
+            "FileHash": "8a7ce19e0fc108de85e3ea776b55f6a2",
+            "FileCRC": 1023173584,
+            "FileSize": 521634,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_欲望之间.bundle",
+            "UnityCRC": 592859772,
+            "FileHash": "3a1949348c281b409d87bd1d250ced72",
+            "FileCRC": 3353878652,
+            "FileSize": 930100,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_欲望驱使.bundle",
+            "UnityCRC": 1104296497,
+            "FileHash": "98a537d4ad6160652c55e137afb1d867",
+            "FileCRC": 996899384,
+            "FileSize": 850027,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_纯1猛主兄弟会.bundle",
+            "UnityCRC": 2255302626,
+            "FileHash": "32e75a0800c1a269959e3b9cb39b437d",
+            "FileCRC": 1411920681,
+            "FileSize": 235763,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_纯主背后的主.bundle",
+            "UnityCRC": 1519682307,
+            "FileHash": "aff15636c42aef183ae8553b74033b72",
+            "FileCRC": 1266549345,
+            "FileSize": 479520,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_纯主被开发.bundle",
+            "UnityCRC": 4118594913,
+            "FileHash": "f9aa701c7b79d067fd12aff2bd597559",
+            "FileCRC": 1095043167,
+            "FileSize": 176491,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_英雄败北恶堕.bundle",
+            "UnityCRC": 1181970640,
+            "FileHash": "166d017002c54c728d5133ca921095ff",
+            "FileCRC": 2186917016,
+            "FileSize": 10121,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_虎哥雌堕.bundle",
+            "UnityCRC": 961680527,
+            "FileHash": "274dcb72b5ff3c868be47222d4be8ede",
+            "FileCRC": 3806119515,
+            "FileSize": 152345,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_训主为奴(h)-.bundle",
+            "UnityCRC": 3957218748,
+            "FileHash": "8756fc39be1a189e18de100b8108403d",
+            "FileCRC": 2212660695,
+            "FileSize": 123506,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_超帅篮球痞子.bundle",
+            "UnityCRC": 2398114618,
+            "FileHash": "c39b912f9a7fe20909dc743cdab11743",
+            "FileCRC": 3902259186,
+            "FileSize": 105452,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_反差调教文_零谲壹诡.bundle",
+            "UnityCRC": 1108590342,
+            "FileHash": "86f5593236b30210f1272afd95899d2a",
+            "FileCRC": 111090968,
+            "FileSize": 1130139,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_催眠父子.bundle",
+            "UnityCRC": 3858848414,
+            "FileHash": "cd95ff3d1f62e86e081d9c7524bb7716",
+            "FileCRC": 1789671777,
+            "FileSize": 44662,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_圣音.bundle",
+            "UnityCRC": 3001530356,
+            "FileHash": "903066a9741071a0c935a382538409de",
+            "FileCRC": 4270033241,
+            "FileSize": 229846,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_城堡.bundle",
+            "UnityCRC": 3442784809,
+            "FileHash": "48907a2b751e2e9c4b8137418fda5fad",
+            "FileCRC": 2584716137,
+            "FileSize": 184660,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_帅气白壮的男神游泳王子沦为黑人留学生的骚肌母猪.bundle",
+            "UnityCRC": 3348125403,
+            "FileHash": "b78e26f5e3d3a8ec15127c1b512d5fd1",
+            "FileCRC": 3762662492,
+            "FileSize": 112802,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_祁峰与箫雷的绿帽臣服.bundle",
+            "UnityCRC": 4190318394,
+            "FileHash": "1968fa3da0fda499d40e00fe150add09",
+            "FileCRC": 3415516486,
+            "FileSize": 300482,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_种马乐园_.bundle",
+            "UnityCRC": 1874844447,
+            "FileHash": "5e9c00a7dda0f3e810d09b7bdde7eac1",
+            "FileCRC": 2974871611,
+            "FileSize": 147031,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_绝色劫情.bundle",
+            "UnityCRC": 3148253086,
+            "FileHash": "113d2aaa0dac9c6f5de54e2486195823",
+            "FileCRC": 1496153066,
+            "FileSize": 192799,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_超级淫荡外挂系统.bundle",
+            "UnityCRC": 1643124249,
+            "FileHash": "a17a1d0270ed4989361972454cf3d21d",
+            "FileCRC": 2266497444,
+            "FileSize": 126262,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_黑人岛屿之耀光的失败.bundle",
+            "UnityCRC": 4272804770,
+            "FileHash": "98348db7ed2e28f71f0f2f317d833900",
+            "FileCRC": 305603,
+            "FileSize": 67077,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_国外文_黑爹麦克的黄皮绿奴.bundle",
+            "UnityCRC": 1713084711,
+            "FileHash": "1e5792beb10f07a4da015d4499097bfc",
+            "FileCRC": 424064254,
+            "FileSize": 221024,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_《下一条疯狗》大长篇沉沦np调教_by南方有我_完结_(1).bundle",
+            "UnityCRC": 2255141582,
+            "FileHash": "4b58484096ba1c7d9d18fcf001299b29",
+            "FileCRC": 1254585300,
+            "FileSize": 755533,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_《恶堕英雄傲龙》.bundle",
+            "UnityCRC": 2770381398,
+            "FileHash": "fc5f7f82dc1d466a90ed550413416bbd",
+            "FileCRC": 2577950268,
+            "FileSize": 180620,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_《我与猛男雄主父亲的生活》伪父子主奴by长卿.bundle",
+            "UnityCRC": 1741198126,
+            "FileHash": "ebfb4dfdab32c09a04245c10ef9dafba",
+            "FileCRC": 3170588484,
+            "FileSize": 136579,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_《战神男友被猥琐流浪汉征服》绿_反差_作者：健树.bundle",
+            "UnityCRC": 2781438602,
+            "FileHash": "038b44c421e0db12025748f5e0fd435b",
+            "FileCRC": 532273900,
+            "FileSize": 13880,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_《疯狂》_（军犬，白袜，改造，sm，皮革）.bundle",
+            "UnityCRC": 1460140624,
+            "FileHash": "61ecdf463a394ca329aff4ffa15976fd",
+            "FileCRC": 1514673823,
+            "FileSize": 742611,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_《黑肌男友恋上我痞子继父的驴屌》作者：臀臀.bundle",
+            "UnityCRC": 3521360900,
+            "FileHash": "99b7f28c8a79efa3d7d3c55e6668993f",
+            "FileCRC": 976669012,
+            "FileSize": 69495,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_军犬.bundle",
+            "UnityCRC": 840148502,
+            "FileHash": "23ad3e5f2401b4402862ca01c44522a0",
+            "FileCRC": 909860448,
+            "FileSize": 665865,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_冠长市的爱与羞.bundle",
+            "UnityCRC": 2775914874,
+            "FileHash": "1f7ba865d6c52bafa08eae7dd0d91de7",
+            "FileCRC": 725525368,
+            "FileSize": 306223,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_卧底月王之永堕魔岛.bundle",
+            "UnityCRC": 4286056687,
+            "FileHash": "eaf9223d89e08b7cdc6f6ce42904135b",
+            "FileCRC": 334230788,
+            "FileSize": 179837,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_卧底月王之浮云翳辉.bundle",
+            "UnityCRC": 4278250262,
+            "FileHash": "fde7c1ebdaa264a34189cc4afb9887b0",
+            "FileCRC": 1362727001,
+            "FileSize": 157263,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_坠阳落溷录.bundle",
+            "UnityCRC": 2344521152,
+            "FileHash": "b665b5120ba62cdee31496bde3e0f0aa",
+            "FileCRC": 2381627592,
+            "FileSize": 233034,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_奴瘾（完结）.bundle",
+            "UnityCRC": 2695060502,
+            "FileHash": "c11e431fec67999b83b5f61182250dff",
+            "FileCRC": 3980774559,
+            "FileSize": 398576,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_爷们男友变精盆.bundle",
+            "UnityCRC": 2191950520,
+            "FileHash": "119e4f20d86c42d8205e49cc479ba452",
+            "FileCRC": 848970645,
+            "FileSize": 63967,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_牧魂经.bundle",
+            "UnityCRC": 1914457875,
+            "FileHash": "b549281e3e18b0723c0df2cd5275f186",
+            "FileCRC": 2670649250,
+            "FileSize": 282726,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_狼妖寺.bundle",
+            "UnityCRC": 2965145445,
+            "FileHash": "43fe08cbd60ebae24b9f1836d10d90d7",
+            "FileCRC": 1692794308,
+            "FileSize": 69537,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_狼王.bundle",
+            "UnityCRC": 785291934,
+            "FileHash": "acd9c5d0eb4cf490b90b245748ba40ef",
+            "FileCRC": 1020073552,
+            "FileSize": 67166,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_神魔催眠项链.bundle",
+            "UnityCRC": 2950000267,
+            "FileHash": "ce78451f17e8f74866598d7698cc3eb3",
+            "FileCRC": 1784503367,
+            "FileSize": 205688,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_肌肉军主纯一被陷害玩成恶堕母狗--紫色灰.bundle",
+            "UnityCRC": 4095455799,
+            "FileHash": "081a81c7a19be29d727eac7563ec821e",
+            "FileCRC": 447952136,
+            "FileSize": 98139,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_雌堕母狗黑狮父王的奴下奴雄孕.bundle",
+            "UnityCRC": 3314831163,
+            "FileHash": "42b51f590a7242c65e94a2e1acea8b7d",
+            "FileCRC": 3689882869,
+            "FileSize": 41852,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_杂文_驯服白袜校草丁子阳.bundle",
+            "UnityCRC": 1026412844,
+            "FileHash": "511250d42b34a3d5da8b8b446ce68ac8",
+            "FileCRC": 1502760154,
+            "FileSize": 233273,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_[更59蛋全]《不灭的他与产卵猛犬们》作家：珍君（np）.bundle",
+            "UnityCRC": 249172669,
+            "FileHash": "9477725bfef4a3ca87a437d2f7700f36",
+            "FileCRC": 1398969122,
+            "FileSize": 1518543,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_《卧底月王之永堕魔岛》作者：mr__right_.bundle",
+            "UnityCRC": 4172395988,
+            "FileHash": "32d7c6384592dd21596001c38b1ce0c5",
+            "FileCRC": 1302747670,
+            "FileSize": 179532,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_《被驯化的战神》作家：珍君（np）.bundle",
+            "UnityCRC": 4187179016,
+            "FileHash": "98c7b1b1ec1c2b6a9dc601151218b919",
+            "FileCRC": 2598007710,
+            "FileSize": 522744,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_《超级英雄的堕欲之途（np_奴化，反调教，巨屌精牛，人外）》作者：万山【完结】.bundle",
+            "UnityCRC": 1265767588,
+            "FileHash": "630f2e87711ad985680cc66eb30b713c",
+            "FileCRC": 465398102,
+            "FileSize": 555655,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_传奇为奴.bundle",
+            "UnityCRC": 355249218,
+            "FileHash": "a98de1f106c98f545fcad9ec80360a60",
+            "FileCRC": 922203925,
+            "FileSize": 441843,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_反转兽人.bundle",
+            "UnityCRC": 1156833646,
+            "FileHash": "b0741ee0d5413540642c8372ddde9283",
+            "FileCRC": 3318100590,
+            "FileSize": 655418,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_宜春香质.bundle",
+            "UnityCRC": 1720203407,
+            "FileHash": "49e8549249f62a84a338307cdc850475",
+            "FileCRC": 705407087,
+            "FileSize": 177263,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_少年勇者被哥布林调教成经验池.bundle",
+            "UnityCRC": 3394547257,
+            "FileHash": "10983e7662540636cb589891ce275880",
+            "FileCRC": 422323732,
+            "FileSize": 74783,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_征服肌肉纯一_.bundle",
+            "UnityCRC": 1087427955,
+            "FileHash": "79c4c31c6c610688362acc3e9ae68952",
+            "FileCRC": 404885681,
+            "FileSize": 236109,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_恶魔领主游戏.bundle",
+            "UnityCRC": 3063507135,
+            "FileHash": "f1fdfac0b32a72c1c1b39e3648cf2138",
+            "FileCRC": 121547138,
+            "FileSize": 70714,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_沦为玩物的变身英雄.bundle",
+            "UnityCRC": 3199805349,
+            "FileHash": "510f59f62ef751c2fc5dc9ef0e2357df",
+            "FileCRC": 872560765,
+            "FileSize": 166674,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_烈焰雄堕.bundle",
+            "UnityCRC": 1608006242,
+            "FileHash": "736096afa974c13e3f62b2036fee82ef",
+            "FileCRC": 1749420331,
+            "FileSize": 195725,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_神奇少年.bundle",
+            "UnityCRC": 3602698416,
+            "FileHash": "8b911366fb28ac6e2410c32f27d85279",
+            "FileCRC": 151360056,
+            "FileSize": 252377,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_调教恶魔.bundle",
+            "UnityCRC": 2149899111,
+            "FileHash": "3560a4a92ec2a17067410a4ba31be698",
+            "FileCRC": 2280424749,
+            "FileSize": 194258,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_闪豹同人.bundle",
+            "UnityCRC": 3984969750,
+            "FileHash": "e8f4fb94407e4081ee92f292f52c7b5c",
+            "FileCRC": 2299661464,
+            "FileSize": 59798,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_驯龙大师.bundle",
+            "UnityCRC": 1115714026,
+            "FileHash": "fa0d96ed7229f6c4db4346984ba41cc9",
+            "FileCRC": 3343376593,
+            "FileSize": 107359,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_魔法皇帝.bundle",
+            "UnityCRC": 1490477306,
+            "FileHash": "de0b8f33cafa45426f120a97430956c5",
+            "FileCRC": 2693370387,
+            "FileSize": 1785799,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_魔王.bundle",
+            "UnityCRC": 3377547648,
+            "FileHash": "8f48a8179dbf2eb6c4463bc66302626a",
+            "FileCRC": 1019448894,
+            "FileSize": 572878,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_魔王的卖身男欢.bundle",
+            "UnityCRC": 1761140485,
+            "FileHash": "158cce0949deda7e4f37ab6170361fb3",
+            "FileCRC": 2417556152,
+            "FileSize": 230755,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_玄幻文_黑魔法师in男校.bundle",
+            "UnityCRC": 1309396237,
+            "FileHash": "705589405d756e90876ef6b4c3739015",
+            "FileCRC": 4060573200,
+            "FileSize": 585479,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_【绿帽小哥哥】山东痞帅运动舍友操了我女朋友三年.bundle",
+            "UnityCRC": 898691225,
+            "FileHash": "3a66a148287cb7a5afeb09b4e2075645",
+            "FileCRC": 1354711185,
+            "FileSize": 137978,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_公用男友.bundle",
+            "UnityCRC": 1496885353,
+            "FileHash": "a5dd898ad7bd99a421cbf222b78a9606",
+            "FileCRC": 1655271511,
+            "FileSize": 475724,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_奴隶.bundle",
+            "UnityCRC": 66047522,
+            "FileHash": "78ef55c8b096d806534d5269b048735a",
+            "FileCRC": 3510746947,
+            "FileSize": 113089,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_完美男友的秘密.bundle",
+            "UnityCRC": 2200469664,
+            "FileHash": "93081f11e5e0e3cd3b5e34609011b085",
+            "FileCRC": 4059060141,
+            "FileSize": 115963,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_帅哥收藏夹__控制.bundle",
+            "UnityCRC": 1724277385,
+            "FileHash": "33e76f277cd79a3c1f52ca672a281065",
+            "FileCRC": 3139614124,
+            "FileSize": 386758,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_我和bf一起被泳池帅哥爆操凌辱.bundle",
+            "UnityCRC": 1956285142,
+            "FileHash": "2d55f5a1123e2cc67bf11a4fb0c91be0",
+            "FileCRC": 2061161490,
+            "FileSize": 78642,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_极品男友被肌肉民工的巨根征服.bundle",
+            "UnityCRC": 209012113,
+            "FileHash": "97d5faafc510157292bec9005b038699",
+            "FileCRC": 3234464322,
+            "FileSize": 221624,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_热血球児男友在外国交换生臭脚下翻着白眼喷射!_(国内篇完).bundle",
+            "UnityCRC": 3297006422,
+            "FileHash": "e762294f0796902a346a018afb0d25e4",
+            "FileCRC": 4048609721,
+            "FileSize": 469065,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_痞男跨下.bundle",
+            "UnityCRC": 2759840422,
+            "FileHash": "103853ce4802147a90983bdedae3b848",
+            "FileCRC": 4009324046,
+            "FileSize": 561960,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_矮个钢炮痞子狂草南航空少bf.bundle",
+            "UnityCRC": 1698619939,
+            "FileHash": "83b648ed9c46bbaa6d38d0bc0d7e9205",
+            "FileCRC": 2916851116,
+            "FileSize": 39225,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_空少男友.bundle",
+            "UnityCRC": 1447252943,
+            "FileHash": "b8f3c3f937a41d68a5cd3b8a7e511c17",
+            "FileCRC": 1493424485,
+            "FileSize": 138815,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_老公被小混混玩成贱奴.bundle",
+            "UnityCRC": 2210793650,
+            "FileHash": "1f17c7c89f145fbd47dfd3f62337b985",
+            "FileCRC": 202861278,
+            "FileSize": 68182,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_肌肉体育生男友被丑逼干烂.bundle",
+            "UnityCRC": 3682806257,
+            "FileHash": "af68b26ff9fea8c8635b7afa0eebc2c0",
+            "FileCRC": 2660069677,
+            "FileSize": 138542,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_肌肉男友逐步沦陷的记录.bundle",
+            "UnityCRC": 338188576,
+            "FileHash": "87a574f8a2de9eec2dcd180ad00ad9d1",
+            "FileCRC": 3778203128,
+            "FileSize": 58396,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_肌肉绿帽男的肉便器之路.bundle",
+            "UnityCRC": 2119362364,
+            "FileHash": "ff2cce8741dd21cb410dba15df937977",
+            "FileCRC": 2045760792,
+            "FileSize": 107492,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_被痞子调教成骚0.bundle",
+            "UnityCRC": 2604537972,
+            "FileHash": "e365041988ccda250b82f9c837dd2c29",
+            "FileCRC": 184301010,
+            "FileSize": 78266,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_赤裸boy.bundle",
+            "UnityCRC": 973902953,
+            "FileHash": "4f4c11d894ab27c85acf7409f14e30a1",
+            "FileCRC": 3241437073,
+            "FileSize": 442404,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_驯の爱.bundle",
+            "UnityCRC": 2568723287,
+            "FileHash": "191c0786b6381d4981c3dacd7e2e7556",
+            "FileCRC": 4192285606,
+            "FileSize": 356489,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_鲜肉房主邱宇豪和糙男租客潘益超.bundle",
+            "UnityCRC": 3374895441,
+            "FileHash": "c295557e67bb67f010bf3ebf9e8a2089",
+            "FileCRC": 1591917157,
+            "FileSize": 78774,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_绿帽反差文_黑车痞子司机的脚下军犬1-4（偷情、痞子攻强受、sm、臭脚）.bundle",
+            "UnityCRC": 4143859308,
+            "FileHash": "a0817243778f2fb6f92975b97d99a7d6",
+            "FileCRC": 2249149827,
+            "FileSize": 29044,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_[np_完结]《犬皇（sm）》作者：闻白小尾巴【补】.bundle",
+            "UnityCRC": 760077298,
+            "FileHash": "093b766ba02d5bab423948516435ee4d",
+            "FileCRC": 1621512267,
+            "FileSize": 3042183,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_[完结]《大学里的筋肉雄兽们》作家：狼崽（np）.bundle",
+            "UnityCRC": 2692136947,
+            "FileHash": "77dca67ca993eab28eb281a0aa842cf5",
+            "FileCRC": 2172922081,
+            "FileSize": 5449095,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_《球奴》体育生粗口玩系列.bundle",
+            "UnityCRC": 654680242,
+            "FileHash": "71f68b75cf19369bba3ea7e472dbba01",
+            "FileCRC": 2149391125,
+            "FileSize": 84217,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_《臣服》体育肌肉狗.bundle",
+            "UnityCRC": 221739019,
+            "FileHash": "b0cc4292ce69f6a0347cef2c0cad5f8c",
+            "FileCRC": 3881291534,
+            "FileSize": 573887,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_人工智能（洗脑）.bundle",
+            "UnityCRC": 1315645266,
+            "FileHash": "10cb5dd70e6123aefd903017a860bb82",
+            "FileCRC": 125598683,
+            "FileSize": 13027,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_体育帅哥林峰.bundle",
+            "UnityCRC": 542449575,
+            "FileHash": "ea65453337de9e2eab52747f70fb574a",
+            "FileCRC": 1782253790,
+            "FileSize": 124069,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_体育生沦陷.bundle",
+            "UnityCRC": 1083110936,
+            "FileHash": "946dd7e5047ab006f296cbce7ed59fb5",
+            "FileCRC": 24696587,
+            "FileSize": 144060,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_大学生黄子松.bundle",
+            "UnityCRC": 1393474347,
+            "FileHash": "a1cc6acaf8446b94cd6fb78a25b42919",
+            "FileCRC": 845655757,
+            "FileSize": 325637,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_惡魔房東與體育生【全本】.bundle",
+            "UnityCRC": 1019153244,
+            "FileHash": "7b723a06ec89ba7d5e6cae6abf38fa3b",
+            "FileCRC": 3104989748,
+            "FileSize": 138009,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_我的足球队长.bundle",
+            "UnityCRC": 839433295,
+            "FileHash": "c41ac1d59085df648a053c63fec51930",
+            "FileCRC": 3497545606,
+            "FileSize": 353683,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_校队阿翔的青春记事.bundle",
+            "UnityCRC": 1307184347,
+            "FileHash": "5a13faa431aa96797d8d3c2ec2ead9af",
+            "FileCRC": 2568764071,
+            "FileSize": 260661,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_淫荡医生的体检陷阱(调教体院生).bundle",
+            "UnityCRC": 2100615562,
+            "FileHash": "1ad85cea159d88086c9a35d1e5afd50e",
+            "FileCRC": 2106649978,
+            "FileSize": 497728,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_燕飞春生.bundle",
+            "UnityCRC": 3102904842,
+            "FileHash": "cb62fa9812c1c6971f4de51016f76a15",
+            "FileCRC": 3400960665,
+            "FileSize": 109153,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_男体院之校园sm俱乐部_.bundle",
+            "UnityCRC": 2565928600,
+            "FileHash": "d08f4c3f766ad010d0018c97f791b11c",
+            "FileCRC": 3591485618,
+            "FileSize": 36594,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_男汁玩具.bundle",
+            "UnityCRC": 2288213493,
+            "FileHash": "ba022a6b11cd68a40d54f6e9390abedc",
+            "FileCRC": 3758504905,
+            "FileSize": 357416,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_痞子老大的狗奴.bundle",
+            "UnityCRC": 2496539086,
+            "FileHash": "d8a90ca4dc3432f99e258afe2221e0c5",
+            "FileCRC": 3838692246,
+            "FileSize": 84526,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_街舞王子.bundle",
+            "UnityCRC": 854621022,
+            "FileHash": "15f1c909b7a3eee98e89fba83b53c598",
+            "FileCRC": 2347781965,
+            "FileSize": 129482,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_足球健将阿威的沦陷.bundle",
+            "UnityCRC": 1267728859,
+            "FileHash": "1c247b750792170a8dba2798e3297be9",
+            "FileCRC": 4178436383,
+            "FileSize": 306084,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_阳刚体育男神变成一条骚狗.bundle",
+            "UnityCRC": 1373171533,
+            "FileHash": "76dcfd07cd9000430cbe27b63d1fc59a",
+            "FileCRC": 4044725675,
+            "FileSize": 272944,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市体育生文_驯服猛男运动宿友.bundle",
+            "UnityCRC": 2888592369,
+            "FileHash": "1893e3e5b5327d181d4a78baefe4c1cf",
+            "FileCRC": 2163673390,
+            "FileSize": 278568,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_《猛虎教练》.bundle",
+            "UnityCRC": 3453505289,
+            "FileHash": "04b2e33f5ba13bc339c00b50e70d35c8",
+            "FileCRC": 511430519,
+            "FileSize": 151330,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_《精英熟男被下属玩成骚贱奴》.bundle",
+            "UnityCRC": 972408313,
+            "FileHash": "ee8b31fc14394a468f2068ab0b3f44f5",
+            "FileCRC": 618298246,
+            "FileSize": 94508,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_东北汉子与重庆靓仔的故事.bundle",
+            "UnityCRC": 1325107566,
+            "FileHash": "00abf5193f5edba597805b5a0bcd92dd",
+            "FileCRC": 733678894,
+            "FileSize": 147890,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_大屌俊的暴露生活.bundle",
+            "UnityCRC": 2465227279,
+            "FileHash": "71ca912b494f60f4a5a3f3d4944afe5c",
+            "FileCRC": 2732224244,
+            "FileSize": 352491,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_契约.bundle",
+            "UnityCRC": 2051056446,
+            "FileHash": "ce50d6a553a6123b86c126b04bfe92aa",
+            "FileCRC": 2369356955,
+            "FileSize": 325882,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_巨屌直男李健豪.bundle",
+            "UnityCRC": 4258125079,
+            "FileHash": "39b6eff3af1527b062727fe18c2a4b8b",
+            "FileCRC": 2602630181,
+            "FileSize": 305782,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_总裁皮囊.bundle",
+            "UnityCRC": 291265139,
+            "FileHash": "8ba395178b1194da97df090123b6a3cf",
+            "FileCRC": 3419406693,
+            "FileSize": 484182,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_我的h路历程.bundle",
+            "UnityCRC": 678886632,
+            "FileHash": "539364f0de030cd01175951505d831bb",
+            "FileCRC": 3744733516,
+            "FileSize": 27735,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_欲望之间.bundle",
+            "UnityCRC": 956003343,
+            "FileHash": "0c668dbe64c9974e5e177494e590fa22",
+            "FileCRC": 3449643481,
+            "FileSize": 930119,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_欲海巨棒.bundle",
+            "UnityCRC": 1611119410,
+            "FileHash": "e6123373a163fa0382ee62cd9ad2d08d",
+            "FileCRC": 4227185623,
+            "FileSize": 29079,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_母狗.bundle",
+            "UnityCRC": 136520358,
+            "FileHash": "111e4d08c0b8515d6dce39a09d20dd79",
+            "FileCRC": 2411595593,
+            "FileSize": 64290,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_民工做主人的生活.bundle",
+            "UnityCRC": 1005692733,
+            "FileHash": "6eee2b465f5d1b5a99d05d221f36fb7f",
+            "FileCRC": 537658258,
+            "FileSize": 673747,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_淫靡大厦重置版.bundle",
+            "UnityCRC": 3456151352,
+            "FileHash": "d1f98ba9d591670fee74c4d33aa143bd",
+            "FileCRC": 1991177653,
+            "FileSize": 457655,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_男友被肌肉痞子虐操：精液派对.bundle",
+            "UnityCRC": 3134448750,
+            "FileHash": "910bee9c15d37ae6fa4e8244566c10f8",
+            "FileCRC": 4225768246,
+            "FileSize": 231132,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_荒村恶童完结版.bundle",
+            "UnityCRC": 412275716,
+            "FileHash": "1fd58b257d349daa886acbba622c9d09",
+            "FileCRC": 2724376777,
+            "FileSize": 1680401,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_被玩弄的肌肉男.bundle",
+            "UnityCRC": 4241142896,
+            "FileHash": "c9d866599648c6e7a267c8844ed1ce6f",
+            "FileCRC": 3345729858,
+            "FileSize": 1018799,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_迷路.bundle",
+            "UnityCRC": 3786112354,
+            "FileHash": "cdd7957b3ffbf6617bbd8e7127bcdccb",
+            "FileCRC": 2196168131,
+            "FileSize": 268155,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_铮铮晴天.bundle",
+            "UnityCRC": 4146982549,
+            "FileHash": "d4339da6ab49c3d20686a8a05047a3b7",
+            "FileCRC": 304723552,
+            "FileSize": 229191,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_雄屌淫穴教练的日记本-1.bundle",
+            "UnityCRC": 415654442,
+            "FileHash": "b43090ac3122197743d7a6d6f9ebed3c",
+            "FileCRC": 2337321770,
+            "FileSize": 261360,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_非原创小说_都市肉文_顾明朗-省长公子沦陷记-v文.bundle",
+            "UnityCRC": 157062240,
+            "FileHash": "e3b5afac643ddbbf0699a31bc432d185",
+            "FileCRC": 3668195549,
+            "FileSize": 564730,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
+            "UnityCRC": 2335488308,
+            "FileHash": "54d9ae92e5e49a2178227f06cbba5242",
+            "FileCRC": 4197699542,
+            "FileSize": 109292,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_artassets_commongroup_font.bundle",
+            "UnityCRC": 3808616103,
+            "FileHash": "2a85666bbbe8ced014d081483794a478",
+            "FileCRC": 2488152343,
+            "FileSize": 6791975,
+            "Encrypted": false,
+            "Tags": [
+                "CommonGroup",
+                "BuildIn",
+                "UiGroup"
+            ],
+            "DependBundleIDs": [
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_articlelistpanel.bundle",
+            "UnityCRC": 3914606810,
+            "FileHash": "0758e50bf47098526123567b428e79b2",
+            "FileCRC": 2081380879,
+            "FileSize": 24291,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_articlepagepanel.bundle",
+            "UnityCRC": 3086185965,
+            "FileHash": "f8476b62a8acdf18938cf3e554600d07",
+            "FileCRC": 1955343448,
+            "FileSize": 364340,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_articlescrollviewpanel.bundle",
+            "UnityCRC": 1793304540,
+            "FileHash": "172a67c418659f160ead1e9c0ffc042a",
+            "FileCRC": 3929115404,
+            "FileSize": 23522,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_buypanel.bundle",
+            "UnityCRC": 1534989730,
+            "FileHash": "4d4d91456ff4c993c7807c787702373c",
+            "FileCRC": 2154160184,
+            "FileSize": 15151,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_fulltradepanel.bundle",
+            "UnityCRC": 2335406401,
+            "FileHash": "94c904b964028c2a5cac6cb3df746114",
+            "FileCRC": 1406686200,
+            "FileSize": 37525,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_generalverificationpanel.bundle",
+            "UnityCRC": 2505689045,
+            "FileHash": "ce917f6e26effeb182626d8d970ab9a3",
+            "FileCRC": 3168134394,
+            "FileSize": 10302,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_invitationcodepanel.bundle",
+            "UnityCRC": 3000966079,
+            "FileHash": "eec2f2fa231ca8877c8aa1cb4e6ac604",
+            "FileCRC": 2700282582,
+            "FileSize": 438407,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_newspanel.bundle",
+            "UnityCRC": 704622674,
+            "FileHash": "00c01862e201543174644d3caba4b350",
+            "FileCRC": 3059142009,
+            "FileSize": 15914,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_noticepanel.bundle",
+            "UnityCRC": 628887545,
+            "FileHash": "905da12516a41ef2f9c2f30951818caa",
+            "FileCRC": 219536010,
+            "FileSize": 15646,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_packarticlelistpanel.bundle",
+            "UnityCRC": 2835658973,
+            "FileHash": "42ce703d775b295e916e7599e3cdafdb",
+            "FileCRC": 376921090,
+            "FileSize": 11398,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_packlistpanel.bundle",
+            "UnityCRC": 1947833377,
+            "FileHash": "d759fa5d0a1b27d3bc2a0c98ea2b1710",
+            "FileCRC": 3632000873,
+            "FileSize": 12532,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_packverificationpanel.bundle",
+            "UnityCRC": 1585518832,
+            "FileHash": "1dcf3e0a99fcc27b1f3db6a28ca93b77",
+            "FileCRC": 308077536,
+            "FileSize": 10507,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_settingspanel.bundle",
+            "UnityCRC": 346283001,
+            "FileHash": "a99a60d3f415e913f71727594e490772",
+            "FileCRC": 1862490878,
+            "FileSize": 13319,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_uigroup_panel_verificationpanel.bundle",
+            "UnityCRC": 1555742621,
+            "FileHash": "13e0a4b6307e4fa0895ecb57de1446db",
+            "FileCRC": 3492853951,
+            "FileSize": 10466,
+            "Encrypted": false,
+            "Tags": [
+                "UiGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": [
+                220,
+                236
+            ]
+        },
+        {
+            "BundleName": "assets_exceljson_c_table.bundle",
+            "UnityCRC": 330517933,
+            "FileHash": "a946e691899c73b18b3d56b564c844a3",
+            "FileCRC": 435741797,
+            "FileSize": 6077,
+            "Encrypted": false,
+            "Tags": [
+                "GameConfigGroup",
+                "BuildIn"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 3821936863,
+            "FileHash": "d8431cdbf4ee7c6d2c13076edeade215",
+            "FileCRC": 1082639765,
+            "FileSize": 23700,
+            "Encrypted": false,
+            "Tags": [
+                "CommonGroup",
+                "BuildIn",
+                "UiGroup"
+            ],
+            "DependBundleIDs": []
+        }
+    ]
+}
