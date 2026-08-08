@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "202608081438",
-    "PackageNote": "8/8/2026 2:38:55 PM",
+    "PackageVersion": "202608081500",
+    "PackageNote": "8/8/2026 3:00:11 PM",
     "AssetList": [
         {
             "Address": "",
@@ -2579,7 +2579,6 @@
             "BundleID": 229,
             "DependBundleIDs": [
                 220,
-                228,
                 236
             ]
         },
@@ -5727,10 +5726,10 @@
         },
         {
             "BundleName": "assets_artassets_uigroup_panel_noticepanel.bundle",
-            "UnityCRC": 628887545,
-            "FileHash": "905da12516a41ef2f9c2f30951818caa",
-            "FileCRC": 219536010,
-            "FileSize": 15646,
+            "UnityCRC": 3406046747,
+            "FileHash": "400e323cc8576bb8667953a0ee6d7a9c",
+            "FileCRC": 1089162048,
+            "FileSize": 15658,
             "Encrypted": false,
             "Tags": [
                 "UiGroup",
@@ -5823,10 +5822,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "UnityCRC": 330517933,
-            "FileHash": "a946e691899c73b18b3d56b564c844a3",
-            "FileCRC": 435741797,
-            "FileSize": 6077,
+            "UnityCRC": 2089936458,
+            "FileHash": "85681100d499dae9d33a728a0c067824",
+            "FileCRC": 2515934495,
+            "FileSize": 6085,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
