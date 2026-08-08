@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "8/8/2026 12:47:27 PM",
-        "BuildSeconds": 9,
+        "BuildDate": "8/8/2026 12:56:25 PM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202608081247",
-        "BuildPackageNote": "8/8/2026 12:47:17 PM",
+        "BuildPackageVersion": "202608081256",
+        "BuildPackageNote": "8/8/2026 12:56:19 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 286,
-        "MainAssetTotalCount": 240,
-        "AllBundleTotalCount": 236,
-        "AllBundleTotalSize": 73417428,
+        "AssetFileTotalCount": 287,
+        "MainAssetTotalCount": 241,
+        "AllBundleTotalCount": 237,
+        "AllBundleTotalSize": 73417595,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -169,6 +169,19 @@
             ],
             "MainBundleName": "assets_artassets_articlegroup_年更yu_那些堕落的男神们之小山村里被催眠的男神.bundle",
             "MainBundleSize": 136924,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/ABC.txt",
+            "AssetGUID": "029e7ab597a13e945b0319d8871105c1",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "MainBundleName": "assets_artassets_articlegroup_男孩_abc.bundle",
+            "MainBundleSize": 1922,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -2898,7 +2911,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "MainBundleSize": 111068,
+            "MainBundleSize": 109298,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3609,7 +3622,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6005,
+            "MainBundleSize": 6020,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3622,7 +3635,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6005,
+            "MainBundleSize": 6020,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3635,7 +3648,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6005,
+            "MainBundleSize": 6020,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3648,7 +3661,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6005,
+            "MainBundleSize": 6020,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3661,7 +3674,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6005,
+            "MainBundleSize": 6020,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -3864,6 +3877,26 @@
                 {
                     "AssetPath": "Assets/ArtAssets/ArticleGroup/年更yu/那些堕落的男神们之小山村里被催眠的男神.txt",
                     "AssetGUID": "747a8e1b7700019419577bf7a528232d"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_abc.bundle",
+            "FileName": "3991a063dd9b12d8f731af73dd3b0ed2.bundle",
+            "FileHash": "3991a063dd9b12d8f731af73dd3b0ed2",
+            "FileCRC": 218360573,
+            "FileSize": 1922,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/ABC.txt",
+                    "AssetGUID": "029e7ab597a13e945b0319d8871105c1"
                 }
             ]
         },
@@ -8049,10 +8082,10 @@
         },
         {
             "BundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "FileName": "af0256237bae27d2954d68fe89fa38d2.bundle",
-            "FileHash": "af0256237bae27d2954d68fe89fa38d2",
-            "FileCRC": 2714628051,
-            "FileSize": 111068,
+            "FileName": "abb0fb046a7e192c2a7ca37b136b3ff0.bundle",
+            "FileHash": "abb0fb046a7e192c2a7ca37b136b3ff0",
+            "FileCRC": 2712608299,
+            "FileSize": 109298,
             "Encrypted": false,
             "Tags": [
                 "ArticleGroup",
@@ -8685,10 +8718,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "FileName": "aeeda767b6d0593f8b7bd129c5077660.bundle",
-            "FileHash": "aeeda767b6d0593f8b7bd129c5077660",
-            "FileCRC": 2517822511,
-            "FileSize": 6005,
+            "FileName": "2c8bfb8b4b60265efff91f2d4446b70c.bundle",
+            "FileHash": "2c8bfb8b4b60265efff91f2d4446b70c",
+            "FileCRC": 3366833762,
+            "FileSize": 6020,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
