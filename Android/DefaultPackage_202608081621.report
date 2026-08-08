@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "8/8/2026 3:48:22 PM",
-        "BuildSeconds": 4,
+        "BuildDate": "8/8/2026 4:21:15 PM",
+        "BuildSeconds": 7,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202608081548",
-        "BuildPackageNote": "8/8/2026 3:48:16 PM",
+        "BuildPackageVersion": "202608081621",
+        "BuildPackageNote": "8/8/2026 4:21:05 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 288,
         "MainAssetTotalCount": 242,
         "AllBundleTotalCount": 237,
-        "AllBundleTotalSize": 73440919,
+        "AllBundleTotalSize": 73440915,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -3662,7 +3662,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6089,
+            "MainBundleSize": 6085,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3675,7 +3675,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6089,
+            "MainBundleSize": 6085,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3688,7 +3688,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6089,
+            "MainBundleSize": 6085,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3701,7 +3701,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6089,
+            "MainBundleSize": 6085,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3714,7 +3714,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6089,
+            "MainBundleSize": 6085,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3727,7 +3727,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6089,
+            "MainBundleSize": 6085,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -8799,10 +8799,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "FileName": "3b4b3604e529254f37061fc66b7cee15.bundle",
-            "FileHash": "3b4b3604e529254f37061fc66b7cee15",
-            "FileCRC": 3655631736,
-            "FileSize": 6089,
+            "FileName": "85681100d499dae9d33a728a0c067824.bundle",
+            "FileHash": "85681100d499dae9d33a728a0c067824",
+            "FileCRC": 2515934495,
+            "FileSize": 6085,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
