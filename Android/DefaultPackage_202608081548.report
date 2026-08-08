@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "8/8/2026 3:44:01 PM",
-        "BuildSeconds": 10,
+        "BuildDate": "8/8/2026 3:48:22 PM",
+        "BuildSeconds": 4,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202608081543",
-        "BuildPackageNote": "8/8/2026 3:43:49 PM",
+        "BuildPackageVersion": "202608081548",
+        "BuildPackageNote": "8/8/2026 3:48:16 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 288,
         "MainAssetTotalCount": 242,
         "AllBundleTotalCount": 237,
-        "AllBundleTotalSize": 73440931,
+        "AllBundleTotalSize": 73440919,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -3428,7 +3428,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_uigroup_panel_noticepanel.bundle",
-            "MainBundleSize": 15658,
+            "MainBundleSize": 15646,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/ArtAssets/CommonGroup/Font/MiSans-Normal SDF.asset",
@@ -8601,10 +8601,10 @@
         },
         {
             "BundleName": "assets_artassets_uigroup_panel_noticepanel.bundle",
-            "FileName": "400e323cc8576bb8667953a0ee6d7a9c.bundle",
-            "FileHash": "400e323cc8576bb8667953a0ee6d7a9c",
-            "FileCRC": 1089162048,
-            "FileSize": 15658,
+            "FileName": "905da12516a41ef2f9c2f30951818caa.bundle",
+            "FileHash": "905da12516a41ef2f9c2f30951818caa",
+            "FileCRC": 219536010,
+            "FileSize": 15646,
             "Encrypted": false,
             "Tags": [
                 "UiGroup",
