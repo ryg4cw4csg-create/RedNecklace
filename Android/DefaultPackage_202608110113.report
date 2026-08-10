@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "8/8/2026 5:26:12 PM",
-        "BuildSeconds": 15,
+        "BuildDate": "8/11/2026 1:14:02 AM",
+        "BuildSeconds": 8,
         "BuildTarget": 13,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202608081725",
-        "BuildPackageNote": "8/8/2026 5:25:55 PM",
+        "BuildPackageVersion": "202608110113",
+        "BuildPackageNote": "8/11/2026 1:13:52 AM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -34,10 +34,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 288,
-        "MainAssetTotalCount": 242,
-        "AllBundleTotalCount": 237,
-        "AllBundleTotalSize": 73465405,
+        "AssetFileTotalCount": 289,
+        "MainAssetTotalCount": 243,
+        "AllBundleTotalCount": 238,
+        "AllBundleTotalSize": 73577885,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -273,6 +273,19 @@
             ],
             "MainBundleName": "assets_artassets_articlegroup_男孩_优等生的假面08.bundle",
             "MainBundleSize": 104575,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面09.txt",
+            "AssetGUID": "80e39afa59947cb4cb52740d8fbebe43",
+            "AssetTags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "MainBundleName": "assets_artassets_articlegroup_男孩_优等生的假面09.bundle",
+            "MainBundleSize": 112472,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3662,7 +3675,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6076,
+            "MainBundleSize": 6084,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3675,7 +3688,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6076,
+            "MainBundleSize": 6084,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3688,7 +3701,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6076,
+            "MainBundleSize": 6084,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3701,7 +3714,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6076,
+            "MainBundleSize": 6084,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3714,7 +3727,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6076,
+            "MainBundleSize": 6084,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3727,7 +3740,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6076,
+            "MainBundleSize": 6084,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -4090,6 +4103,26 @@
                 {
                     "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面08.txt",
                     "AssetGUID": "62c8d6bec0ecbd84ba38ed48d137491d"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_artassets_articlegroup_男孩_优等生的假面09.bundle",
+            "FileName": "dd3c36677333ee00ddf010f938d40857.bundle",
+            "FileHash": "dd3c36677333ee00ddf010f938d40857",
+            "FileCRC": 3342234647,
+            "FileSize": 112472,
+            "Encrypted": false,
+            "Tags": [
+                "ArticleGroup",
+                "BuildIn"
+            ],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/ArtAssets/ArticleGroup/男孩/优等生的假面09.txt",
+                    "AssetGUID": "80e39afa59947cb4cb52740d8fbebe43"
                 }
             ]
         },
@@ -8799,10 +8832,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "FileName": "7add2ea2cbaf7f1c8e352c5e9ece05c7.bundle",
-            "FileHash": "7add2ea2cbaf7f1c8e352c5e9ece05c7",
-            "FileCRC": 2564890143,
-            "FileSize": 6076,
+            "FileName": "bd3d7efefca526636320b21d7faf952a.bundle",
+            "FileHash": "bd3d7efefca526636320b21d7faf952a",
+            "FileCRC": 1725159580,
+            "FileSize": 6084,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
