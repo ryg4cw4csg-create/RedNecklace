@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "202608141752",
-    "PackageNote": "8/14/2026 5:52:08 PM",
+    "PackageVersion": "202608142013",
+    "PackageNote": "8/14/2026 8:13:52 PM",
     "AssetList": [
         {
             "Address": "",
@@ -5593,10 +5593,10 @@
         },
         {
             "BundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "UnityCRC": 1567937777,
-            "FileHash": "3030b8040bc631fc14b6d65d312ac94f",
-            "FileCRC": 2506101567,
-            "FileSize": 109302,
+            "UnityCRC": 168160622,
+            "FileHash": "598410ae694ecd3e27b97c178b1df67c",
+            "FileCRC": 199407335,
+            "FileSize": 108263,
             "Encrypted": false,
             "Tags": [
                 "ArticleGroup",
@@ -5846,10 +5846,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "UnityCRC": 3229201584,
-            "FileHash": "e2841302b5695157b70bf0f7e28731f4",
-            "FileCRC": 3259990118,
-            "FileSize": 6088,
+            "UnityCRC": 1072164838,
+            "FileHash": "53aa5dff7c2deb6091402faf5b796f18",
+            "FileCRC": 1059739555,
+            "FileSize": 6083,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",

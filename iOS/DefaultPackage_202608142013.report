@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.19",
         "UnityVersion": "6000.3.12f1",
-        "BuildDate": "8/14/2026 5:52:17 PM",
-        "BuildSeconds": 8,
+        "BuildDate": "8/14/2026 8:14:06 PM",
+        "BuildSeconds": 12,
         "BuildTarget": 9,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "202608141752",
-        "BuildPackageNote": "8/14/2026 5:52:08 PM",
+        "BuildPackageVersion": "202608142013",
+        "BuildPackageNote": "8/14/2026 8:13:52 PM",
         "UniqueBundleName": false,
         "EnableAddressable": false,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 289,
         "MainAssetTotalCount": 243,
         "AllBundleTotalCount": 238,
-        "AllBundleTotalSize": 73247112,
+        "AllBundleTotalSize": 73246068,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -2911,7 +2911,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "MainBundleSize": 109302,
+            "MainBundleSize": 108263,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3675,7 +3675,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6088,
+            "MainBundleSize": 6083,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3688,7 +3688,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6088,
+            "MainBundleSize": 6083,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3701,7 +3701,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6088,
+            "MainBundleSize": 6083,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3714,7 +3714,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6088,
+            "MainBundleSize": 6083,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3727,7 +3727,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6088,
+            "MainBundleSize": 6083,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3740,7 +3740,7 @@
                 "BuildIn"
             ],
             "MainBundleName": "assets_exceljson_c_table.bundle",
-            "MainBundleSize": 6088,
+            "MainBundleSize": 6083,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -8148,10 +8148,10 @@
         },
         {
             "BundleName": "assets_artassets_articlegroup_黑武士_失控01.bundle",
-            "FileName": "3030b8040bc631fc14b6d65d312ac94f.bundle",
-            "FileHash": "3030b8040bc631fc14b6d65d312ac94f",
-            "FileCRC": 2506101567,
-            "FileSize": 109302,
+            "FileName": "598410ae694ecd3e27b97c178b1df67c.bundle",
+            "FileHash": "598410ae694ecd3e27b97c178b1df67c",
+            "FileCRC": 199407335,
+            "FileSize": 108263,
             "Encrypted": false,
             "Tags": [
                 "ArticleGroup",
@@ -8832,10 +8832,10 @@
         },
         {
             "BundleName": "assets_exceljson_c_table.bundle",
-            "FileName": "e2841302b5695157b70bf0f7e28731f4.bundle",
-            "FileHash": "e2841302b5695157b70bf0f7e28731f4",
-            "FileCRC": 3259990118,
-            "FileSize": 6088,
+            "FileName": "53aa5dff7c2deb6091402faf5b796f18.bundle",
+            "FileHash": "53aa5dff7c2deb6091402faf5b796f18",
+            "FileCRC": 1059739555,
+            "FileSize": 6083,
             "Encrypted": false,
             "Tags": [
                 "GameConfigGroup",
